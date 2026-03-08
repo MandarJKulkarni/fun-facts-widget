@@ -1,0 +1,1 @@
+export { FunFactsWidget } from './FunFactsWidget';
